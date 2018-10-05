@@ -7,12 +7,12 @@ sensors:
         latitude: 51.474708
         longitude: -2.576841
 
-#    7677:
-#      name: St Werburghs 1
-#      start_date: 2017-12-11
-#      location:
-#        latitude: 51.474708
-#        longitude: -2.576841
+    7677:
+      name: St Werburghs 1
+      start_date: 2017-12-11
+      location:
+        latitude: 51.474708
+        longitude: -2.576841
 #
 #    7685:
 #      name: St Werburghs 2
