@@ -13,6 +13,13 @@ sensors:
       location:
         latitude: 51.474708
         longitude: -2.576841
+
+    17502:
+      name: St Werberghs Community Centre
+      start_date: 2018-10-14
+      location:
+        latitude: 51.468
+        longitude: -2.5718
 #
 #    7685:
 #      name: St Werburghs 2
